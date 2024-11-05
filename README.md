@@ -1,4 +1,4 @@
-# Greetings, I'm Charutha Pawan Kodikara 👋
+# Hy there, I'm Charutha Pawan Kodikara 👋
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF0&center=true&vCenter=true&width=435&lines=ML-Developer;Full+Stack+Developer;" alt="Typing SVG" />
 </div>
