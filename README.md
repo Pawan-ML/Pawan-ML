@@ -56,11 +56,8 @@ const developer = {
 <div align="center">
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
 
-<div align="center">
-###
-  
+---
 [![](https://visitcount.itsvg.in/api?id=Pawan-ML&icon=6&color=10)](https://visitcount.itsvg.in)
 </div>
 
