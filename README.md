@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-<div align="center>
+<div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/charutha-pawan-kodikara-516869299/) 
 </div>
@@ -57,8 +57,9 @@ const developer = {
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
----
+
 <div align="center">
+###
   
 [![](https://visitcount.itsvg.in/api?id=Pawan-ML&icon=6&color=10)](https://visitcount.itsvg.in)
 </div>
